@@ -8,6 +8,21 @@ Basic structure for react app with Vite as build and Vite test, react testing li
 
 ---
 
+### Why
+
+- To get started with a new project with basic boiler plate Vite react app fast.
+- With support Eslint and pettier with Airbnb Eslint config.
+  -With support tailwind for styling.
+- With vitest for testing with the react testing libary.
+
+---
+
+### Install
+
+    npm install
+
+---
+
 ### packages
 
 - [`testing-library/jest-dom`](https://github.com/testing-library/jest-dom)
