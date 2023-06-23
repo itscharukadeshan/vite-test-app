@@ -1,8 +1,5 @@
 /** @format */
-
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { render, screen } from "@testing-library/react";
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { describe, it } from "vitest";
 
 import App from "./App";
