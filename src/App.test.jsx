@@ -13,7 +13,6 @@ describe("App", () => {
     render(<App />);
     // ACT
     // EXPECT
-    // eslint-disable-next-line no-undef
     expect(
       screen.getByRole("heading", {
         level: 1,
